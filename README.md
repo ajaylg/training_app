@@ -1,6 +1,4 @@
-# trainings
-
-Trainings App
+# Trainings App
 
 A Flutter-based mobile application that helps users discover and explore training programs.
 
@@ -26,5 +24,3 @@ Setup Instructions
 
 3. Running the App
     - flutter run
-
-# training_app
