@@ -1,17 +1,30 @@
 # trainings
 
-A new Flutter project.
+Trainings App
+
+A Flutter-based mobile application that helps users discover and explore training programs.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the instructions below to set up and run the project on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+Flutter version Details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Flutter 3.7.12 • channel stable • https://github.com/flutter/flutter.git
+2. Framework • revision 4d9e56e694
+3. Engine • revision 1a65d409c7
+4. Tools • Dart 2.19.6 • DevTools 2.20.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Setup Instructions
+
+1. Clone the Repository
+    - git clone <repository_url>
+    - cd <project_folder>
+
+2. Install Dependencies
+    - flutter pub get
+
+3. Running the App
+    - flutter run
+
 # training_app
