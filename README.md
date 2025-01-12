@@ -13,7 +13,7 @@ Flutter version Details
 3. Engine • revision 1a65d409c7
 4. Tools • Dart 2.19.6 • DevTools 2.20.1
 
-Setup Instructions
+## Setup & Running Instructions
 
 1. Clone the Repository
     - git clone <repository_url>
